@@ -32,7 +32,7 @@
 - ### Import data from a JS file
 - ### Styled & polished
 - ### Import React-router-dom
-- ### Fetch COuntry API
+- ### Fetch Country API
   
 
 ### Built With
