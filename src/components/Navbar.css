@@ -1,0 +1,52 @@
+#navbar {
+    padding: 2rem 4rem;
+    background: var(--elements);
+  }
+  
+  #navbar .flex {
+    justify-content: space-between;
+  }
+  
+  .logo-heading {
+    font-size: 2.5rem;
+    font-weight: 800;
+  }
+  
+  .btn-theme {
+    padding-top: 0.25rem;
+  }
+  
+  .btn-theme-icon {
+    font-size: 2.25rem;
+    margin-right: 1rem;
+    align-self: center;
+    color: var(--text);
+  }
+  
+  .btn-theme-text {
+    align-self: center;
+    color: var(--text);
+  }
+  
+  @media only screen and (max-width: 600px) {
+    #navbar h3 {
+      font-size: 1.8rem;
+    }
+    .btn-theme {
+      padding-top: 0.225rem;
+      font-size: 1.6rem;
+    }
+  
+    .btn-theme-icon {
+      font-size: 1.8rem;
+      margin-right: 0.4rem;
+  
+      padding-bottom: 0.1rem;
+    }
+  
+    #navbar {
+      padding: 2rem 3rem;
+    }
+  
+  
+  }
