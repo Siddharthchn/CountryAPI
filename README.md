@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+<!-- PROJECT LOGO -->
+<p align="center">
+
+  <h1 align="center">CountryAPI</h1>
+
+  <h3 align="center">
+  This is a Website for Country information  with React.js, React-router-dom and CountryAPIDb .
+  </h3>
+ <br />
+ 
+
+ ### Click here for live demo   <a href="https://siddharthchn-countryapi.netlify.app/" target="_blank">CountryINfo</a>
+
+</p>
+
+<!-- ABOUT THE PROJECT -->
+
+## About The Project:-
+<br>
+
+
+
+![d1](https://github.com/Siddharthchn/CountryAPI/assets/109435160/eb5ccd3e-fa4a-44eb-881e-04f55047436b)
+
+
+
+
+
+### Requirements
+
+- ### Create a landing page with React using a Figma mockup
+- ### Import data from a JS file
+- ### Styled & polished
+- ### Import React-router-dom
+- ### Fetch COuntry API
+  
+
+### Built With
+
+- #### Semantic HTML5 markup
+- #### CSS
+- #### React.js
+- ### React-icons
+- ### API
+- ### React-Router-Dom
+- ###  React-spinners
+
+<!-- GETTING STARTED -->
+
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+### To run project:-
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Useful resources
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [ReactJS](https://reactjs.org/tutorial/tutorial.html) - How to set up a local development environment on your computer
+- [Framer Motion](https://www.framer.com/docs/layout-animations/) - Create layout and shared layout animations with React and Framer Motion
+- [StackOverflow](https://stackoverflow.com/questions/35184509/make-selected-block-of-text-uppercase) - Make selected block of text uppercase
+- [StackOverflow](https://stackoverflow.com/questions/62007505/staggerchildren-with-framer-motion) - staggerChildren with framer motion
+- [StackOverflow](https://stackoverflow.com/questions/37261988/force-text-to-stay-on-one-line) - Force text to stay on one line
+- [CodePen](https://codepen.io/widhi_allan/pen/jOBewE) - Pure CSS PNG glow hover animation
+- [Graffino](https://graffino.com/til/CjT2jrcLHP-how-to-fix-filter-blur-performance-issue-in-safari) - How to fix filter blur performance issue in Safari
+- [React CountUp](https://github.com/glennreyes/react-countup) - Create animations that display numerical data in a more interesting way
+- [EmailJS](https://www.emailjs.com/docs/examples/reactjs/) - Send Email Directly From JavaScript using React
+- [ReactJS](https://it.reactjs.org/docs/hooks-reference.html#useref) - useRef returns a mutable ref object whose .current property is initialized to the passed argument (initialValue)
+- [StackOverflow](https://stackoverflow.com/questions/71607893/how-to-access-env-variables-using-react) - How to access env variables using react?
+- [StackOverflow](https://stackoverflow.com/questions/71357518/odd-error-on-emailjs-when-trying-to-test-form-550-request-failed) - Odd error on EmailJS when trying to test form 550 Request failed
+- [Jim Raptis](https://medium.muz.li/15-tips-for-better-ui-forms-744febd107f9) - 15 Tips For Better Forms
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
